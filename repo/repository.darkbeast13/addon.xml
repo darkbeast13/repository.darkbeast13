@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<addon id="repository.darkbeast13" name="darkbeast13's Repository" version="1.0" provider-name="darkbeast13">
+    <extension point="xbmc.addon.repository" name="darkbeast13's Repository">
+        <dir>
+            <info compressed="false">https://raw.githubusercontent.com/darkbeast13/repository.darkbeast13/master/repo/zips/addons.xml</info>
+            <checksum>https://raw.githubusercontent.com/darkbeast13/repository.darkbeast13/master/repo/zips/addons.xml.md5</checksum>
+            <datadir zip="true">https://raw.githubusercontent.com/darkbeast13/repository.darkbeast13/master/repo/zips/</datadir>
+        </dir>
+    </extension>
+    <extension point="xbmc.addon.metadata">
+        <summary>darkbeast13's Repository</summary>
+        <description>For my stuff</description>
+        <disclaimer></disclaimer>
+        <platform>all</platform>
+        <assets>
+            <icon>icon.png</icon>
+            <fanart>fanart.jpg</fanart>
+        </assets>
+    </extension>
+</addon>
